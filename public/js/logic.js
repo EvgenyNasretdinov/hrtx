@@ -1,4 +1,4 @@
-const host = process.env.BACKEND_HOST || 'http://localhost:3001'
+const host = 'http://localhost:3001'
 const buttonText = 'Get Human readable description of what is going on'
 
 function getAIOutput() {
