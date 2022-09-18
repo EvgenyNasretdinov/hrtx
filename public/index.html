@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>HRTX</title>
+</head>
+<body>
+  <div class="wrapper">
+    <div>DEMO of HRTX API 🌞</div>
+    <div class="">
+      <label for="chainId" class="">Network</label>
+      <select name="chains" id="chainId" class="" style="border-width: 1px;">
+        <option value="1">Ethereum</option>
+        <option value="4">Rinkeby</option>
+      </select>
+    </div>
+    <div class="">
+      <label for="txHashInput" class="col">Transaction hash</label>
+      <input type="text" id="txHashInput" placeholder="0x456..." class="" style="border-width: 1px;">
+    </div>
+    <div class="">
+      <button type="button" id="submitButton" onclick="getAIOutput()">Get Human readable description of what is going on</button>
+    </div>
+    <div id="AIoutput">
+    </div>
+  </div>
+  <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+  <script src="js/logic.js"></script>
+</body>
+</html>

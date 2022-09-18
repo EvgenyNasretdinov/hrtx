@@ -1,0 +1,35 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.wrapper {
+  height: 20%;
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+}
+
+.wrapper > * {
+  color: white;
+  font-size: 20px;
+  line-height: 24px;
+}
+
+button, select, input {
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+select, input {
+  margin-left: 10px;
+}
