@@ -10,7 +10,7 @@ The idea is to make blockchain accessible for everyone. You don't need to unders
 
 ## How
 
-With the help of GPT-3 models and our owns in the future, we are capable of translating and summarizing the programming code into human's text. By parsing transaction data, we are able to know what interaction with the SC is going to happen, and, when the AI can describe us the programming code, we can describe the user what will happen (or happend) on the onchain layer.
+With the help of GPT-3 and our own models, we are capable of translating and summarizing the programming code into human's text. By parsing transaction data, we are able to know what interaction with the SC is going to happen, and, when the AI can describe us the programming code, we can describe the user what will happen (or happend) on the onchain layer.
 
 ## Use cases
 
