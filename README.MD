@@ -6,7 +6,7 @@ This repo contains the PoC of the API for generating Human readable descriptions
 
 ## Goal
 
-The idea is to make blockchain accessable for everyone. You don't need to understand coding or math, to be able to interact with blockchain Dapps and to know what logic is running underneath. Even on a new Smart contracts, that don't have propper documentation yet, you should be able to understand a high-level concept of what the code is about to do.
+The idea is to make blockchain accessible for everyone. You don't need to understand coding or math, to be able to interact with blockchain Dapps and to know what logic is running underneath. Even on a new Smart contracts, that don't have a propper documentation yet, you should be able to understand a high-level concept of what the code is about to do.
 
 ## How
 
