@@ -1,4 +1,4 @@
-const host = 'https://elaborate-cocada-5e6550.netlify.app'
+const host = 'http://localhost:3000'
 const buttonText = 'Get Human readable description of what is going on'
 
 function getAIOutput() {
