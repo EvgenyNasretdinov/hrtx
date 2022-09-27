@@ -1,0 +1,24 @@
+# Git
+.git
+
+# Vagrant
+.vagrant
+
+# IDE
+.idea
+
+# Environment
+.env*
+
+# Node JS
+node_modules
+npm-debug.log
+
+# Docker
+docker-compose
+
+# Deployment
+deployment/
+
+# Build
+dist/

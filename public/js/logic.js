@@ -1,7 +1,7 @@
-const host = 'http://localhost:3000'
 const buttonText = 'Get Human readable description of what is going on'
 
 function getAIOutput() {
+  const host = process.env.BACKEND_HOST || 'http://localhost:3001'
   const txHash= document.getElementById("txHashInput").value
   const chainId = document.getElementById("chainId").value
   const submitButton = document.getElementById("submitButton")

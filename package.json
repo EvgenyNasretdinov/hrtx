@@ -3,7 +3,7 @@
   "description": "human readable transactions with AI's SC code to text conversion",
   "main": "dist/index.js",
   "scripts": {
-    "build": "rm -rf ./dist && tsc",
+    "build": "tsc",
     "start": "node dist/index.js"
   },
   "dependencies": {
@@ -17,6 +17,7 @@
     "web3-utils": "^1.7.3"
   },
   "devDependencies": {
+    "typescript": "^4.2.4",
     "@types/express": "^4.17.14",
     "esbuild": "^0.15.7"
   },
