@@ -1,4 +1,4 @@
-# HRTX
+# CHAIN PROMPTER (HRTX)
 
 This repo contains the PoC of the API for generating Human readable descriptions for provided transaction data.
 
@@ -44,6 +44,6 @@ To try this PoC API with some demo frontend, you can open `localhost:{port}/inde
 
 For now, I am working on this myself, so if you would like to connect and discuss how we can collaborate, i would happy to hear you 🌞 
 
+- _Twitter_: [@ChainPrompter](https://twitter.com/chainprompter) [@evzhen_n](https://twitter.com/evzhen_n)
 - _Telegram_: [@evzhen](https://t.me/evzhen)
-- _Twitter_: [@evzhen_n](https://twitter.com/evzhen_n)
 - _Matrix_: [@evzhen.](https://matrix.to/#/@evzhen.:matrix.org)
